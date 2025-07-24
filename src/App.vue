@@ -1,4 +1,4 @@
-<script setup lang="">
+<script setup>
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import DashboardLayout from "@/layout/DashboardLayout.vue";
 import Dashboard from "@/pages/Dashboard.vue";

@@ -1,6 +1,6 @@
 <template>
   <SidebarProvider>
-      <Sidebar />
+    <Sidebar />
     <main class="w-full">
       <div>
         <Header />
